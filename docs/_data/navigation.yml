@@ -9,6 +9,11 @@ docs:
   - title: Resouces
     url: resources.html
 
-  - title: Kits - RC2014 Mini
-    url: kits/rc2015mini/guide.html
+  - title: Appendices
+    utl: appendices.html
+
+  - title: Kits
+    subfolderitems:
+      - page: RC2014 Mini
+        url: kits/rc2014mini/guide.html
     

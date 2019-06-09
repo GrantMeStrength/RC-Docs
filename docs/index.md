@@ -18,7 +18,7 @@ Blah
    {% endfor %}
 </ul>
 
-## Contents two level auto-generated
+## Contents two level auto-generated 2
 
 {% for item in site.data.navigation.toc %}
     <h3>{{ item.title }}</h3>
