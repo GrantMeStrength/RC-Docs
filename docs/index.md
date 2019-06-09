@@ -11,14 +11,20 @@ sidebar:
 
 The RC2014 is a series of kits and products based around the idea of building simple computers - the kind of computers than were state of the art in the early 1980s.
 
+![](board1.png)
+
 This site is a list od products available from RC2014.co.uk, including assembly instructions, their operation, and a lot more.
 
 ## Contents
 
 
 * [Introduction](introduction.html)
-* [Kits](kits/kits.html)
+* [Kits & Modules](kits/kits.html)
+  * [RC2014 Classic](kits/rc2014mini/guide.html)
+  * [RC2014 Pro](kits/rc2014mini/guide.html)
+  * [RC2014 PM/M Edition](kits/rc2014mini/guide.html)
   * [RC2014 Mini](kits/rc2014mini/guide.html)
+  * [Full list of available modules](kits/rc2014mini/guide.html)
 * [Appendices](appendices.html)
   * [How to solder](appendices/soldering.html)
   * [Resistor color codes](appendices/resistor_color_code.html)

@@ -28,6 +28,7 @@ Tool list and other requiremets
 * Wire cutters
 * Tape (to hold components in place as you solder - blue painter's tape is idea)
 * A frame or other device to hold the circuit board as your solder
+* A USB power supply, 5v 2A recommend.
 
 ### Warnings
 
@@ -104,9 +105,18 @@ For general soldering tips, please read [Appendix - How to Solder](appendices/so
 
 ## Troubleshooting
 
+If your kit doesn't work, please check the following:
+
+
 ## Circuit diagram
 
 ![](schematic.png)
 
-## Related projects
+## Expanding the RC2014 Mini
+
+
+The following modules can be added to the RC2014 Mini:
+
+* Digital UI
+
 
