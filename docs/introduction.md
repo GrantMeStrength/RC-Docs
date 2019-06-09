@@ -1,3 +1,10 @@
+---
+layout: default
+title: Introduction
+sidebar:
+  nav: "docs"
+---
+
 # Introduction
 
 RC2014 is a simple 8 bit Z80 based modular computer originally built to run Microsoft BASIC. It is inspired by the home built computers of the late 70s and computer revolution of the early 80s. It is not a clone of anything specific, but there are suggestions of the ZX81, UK101, S100, Superboard II and Apple I in here. It nominally has 8K ROM, 32K RAM, runs at 7.3728MHz and communicates over serial at 115,200 baud.
