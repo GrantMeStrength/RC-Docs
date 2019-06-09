@@ -10,7 +10,9 @@ docs:
     url: resources.html
 
   - title: Appendices
-    utl: appendices.html
+    subfolderitems:
+      - page: How to solder
+        utl: appendices.html
 
   - title: Kits
     subfolderitems:

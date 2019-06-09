@@ -7,27 +7,22 @@ sidebar:
 
 # Introduction
 
-Blah
+The RC2014 is a series of kits and products based around the idea of building simple computers - the kind of computers than were state of the art in the early 1980s.
 
-## Contents auto-generated
+This site is a list od products available from RC2014.co.uk, including assembly instructions, their operation, and a lot more.
 
-<h2>{{ site.data.navigation.docs_list_title }}</h2>
-<ul>
-   {% for item in site.data.navigation.docs %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-   {% endfor %}
-</ul>
+## Contents
 
-## Contents two level auto-generated 2
 
-{% for item in site.data.navigation.toc %}
-    <h3>{{ item.title }}</h3>
-      <ul>
-        {% for entry in item.subfolderitems %}
-          <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
-        {% endfor %}
-      </ul>
-  {% endfor %}
+* [Introduction](introduction.html)
+* [Resources](resources.html)
+* [Kits](kits.html)
+  * [RC2014 Mini](kits/rc2014/guide.html)
+* [Appendices](appendices.html)
+  * [How to solder](appendices/soldering.html)
+  * Communications
+
+
 
 ---
-The end.
+
