@@ -7,6 +7,8 @@ sidebar:
 
 # How to solder
 
+Building the kits requires a basic level of soldering skill. None of the components are SMD.
+
 ## Tips for soldering
 
 ![](soldering.png)

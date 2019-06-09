@@ -23,7 +23,7 @@ This site contains a list of products available from RC2014.co.uk, including ass
   * [RC2014 Pro](kits/rc2014mini/guide.html)
   * [RC2014 CP/M Edition](kits/rc2014mini/guide.html)
   * [RC2014 Mini](kits/rc2014mini/guide.html)
-  * [Full list of available modules](kits/rc2014mini/guide.html)
+  * [Full list of available modules](kits/kits.html)
 * [Appendices](appendices/appendices.html)
   * [How to solder](appendices/soldering.html)
   * [Resistor color codes](appendices/resistor_color_codes.html)
