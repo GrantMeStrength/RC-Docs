@@ -10,6 +10,6 @@ sidebar:
 
 
 * [Soldering tips](soldering.html)
-* [Resistor color coode](resistor_color_codes.html)
+* [Resistor color codes](resistor_color_codes.html)
 * [IC Numbering](ic_numbering.html)
 * [Other components](components.html)

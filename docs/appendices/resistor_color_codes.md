@@ -5,7 +5,7 @@ sidebar:
   nav: "docs"
 ---
 
-# Resistor Color Code
+# Resistor Color Codes
 
 Color blind? Use a multi-meter to check the resistance before soldering the resistor into place.
 

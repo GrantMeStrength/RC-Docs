@@ -13,16 +13,15 @@ The RC2014 is a series of kits and products based around the idea of building si
 
 ![](board1.png)
 
-This site is a list od products available from RC2014.co.uk, including assembly instructions, their operation, and a lot more.
+This site contains a list of products available from RC2014.co.uk, including assembly instructions,  operation instructions, and a lot more.
 
 ## Contents
-
 
 * [Introduction](introduction.html)
 * [Kits & Modules](kits/kits.html)
   * [RC2014 Classic](kits/rc2014mini/guide.html)
   * [RC2014 Pro](kits/rc2014mini/guide.html)
-  * [RC2014 PM/M Edition](kits/rc2014mini/guide.html)
+  * [RC2014 CP/M Edition](kits/rc2014mini/guide.html)
   * [RC2014 Mini](kits/rc2014mini/guide.html)
   * [Full list of available modules](kits/rc2014mini/guide.html)
 * [Appendices](appendices/appendices.html)
@@ -31,7 +30,9 @@ This site is a list od products available from RC2014.co.uk, including assembly 
   * [IC numbering](appendices/ic_numbering.html)
   * [Other components](appendices/components.html)
 * [Resources](resources.html)
-
+  * Introduction to BASIC
+  * Introduction to CP/M
+  * Introduction to the Small Computer Monitor
 
 ---
 
