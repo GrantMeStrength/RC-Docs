@@ -5,7 +5,7 @@ sidebar:
   nav: "docs"
 ---
 
-# Introduction
+# Welcome
 
 ![](RC2014-logo.jpg)
 
@@ -17,8 +17,8 @@ This site is a list od products available from RC2014.co.uk, including assembly 
 
 
 * [Introduction](introduction.html)
-* [Kits](kits.html)
-  * [RC2014 Mini](kits/rc2014/guide.html)
+* [Kits](kits/kits.html)
+  * [RC2014 Mini](kits/rc2014mini/guide.html)
 * [Appendices](appendices.html)
   * [How to solder](appendices/soldering.html)
   * [Resistor color codes](appendices/resistor_color_code.html)

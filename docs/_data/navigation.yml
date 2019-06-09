@@ -12,7 +12,7 @@ docs:
   - title: Appendices
     subfolderitems:
       - page: How to solder
-        utl: appendices.html
+        url: appendices.html
 
   - title: Kits
     subfolderitems:
