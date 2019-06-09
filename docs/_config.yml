@@ -1,4 +1,2 @@
 theme: jekyll-theme-tactile
 markdown: kramdown
-plugins:
-  - jekyll-sitemap
