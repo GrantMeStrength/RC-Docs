@@ -9,7 +9,7 @@ sidebar:
 
 Blah
 
-## Contents
+## Contents auto-generated
 
 <h2>{{ site.data.navigation.docs_list_title }}</h2>
 <ul>
