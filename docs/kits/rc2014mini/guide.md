@@ -87,7 +87,7 @@ Step by step guide
 
 ## Circuit diagram
 
-![](rc2014-mini-schematic.png)
+![](schematic.png)
 
 ## Related projects
 
