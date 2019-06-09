@@ -1,3 +1,10 @@
+---
+layout: default
+title: RC2014 Mini
+sidebar:
+  nav: "docs"
+---
+
 # RC2014 Mini
 
 ## Description
