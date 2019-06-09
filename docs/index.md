@@ -7,10 +7,7 @@ title: RC-Docs project test
 
 Blah
 
-# Table of contents
 
-* TOC
-{:toc}
 
 ---
 The end.
