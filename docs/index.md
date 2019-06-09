@@ -9,7 +9,7 @@ sidebar:
 
 ![](RC2014-logo.jpg)
 
-The RC2014 is a series of kits and products based around the idea of building simple computers - the kind of computers than were state of the art in the early 1980s.
+The RC2014 is a series of kits and products based around the idea of building simple computers - the kind of computers that were state-of-the-art in the early 1980s.
 
 ![](board1.png)
 
@@ -18,6 +18,7 @@ This site contains a list of products available from RC2014.co.uk, including ass
 ## Contents
 
 * [Introduction](introduction.html)
+
 * [Kits & Modules](kits/kits.html)
   * [RC2014 Classic](kits/rc2014mini/guide.html)
   * [RC2014 Pro](kits/rc2014mini/guide.html)
