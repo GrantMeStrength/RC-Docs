@@ -9,6 +9,8 @@ sidebar:
 
 ![](board1.png)
 
+[Z80 2.1 CPU Module](./Z8021CPU/guide.html)
+
 ## Description
 
 The **RC2014 Classic** is a complete, Z80-based 8-bit computer capable of running BASIC and Z80 development tools "out of the box", and CP/M with a little more effort.
@@ -33,7 +35,7 @@ Assemble each of the modules below in turn. When you have completed them all, re
 
 ## Final assembly and testing
 
-Now you can place each board into the backplane. The suggested location is as follows:
+Now you can carefully place each board into the backplane. The suggested location is as follows:
 
 (diagram)
 
@@ -41,7 +43,7 @@ Connect the serial connection between your computer and the Serial module connec
 
 (diagram)
 
-Run the necessary software on the computer. See [Communications](./communications.html) for more information.
+Run the necessary software on the computer. See [Communications](../communications.html) for more information.
 
 Connect the power supply to the backplane. If all is well, the backplane LED will light up. 
 
