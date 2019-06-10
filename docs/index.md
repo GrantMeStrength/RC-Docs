@@ -24,7 +24,7 @@ This site contains a full list of products available from RC2014.co.uk, includin
 * [Introduction](introduction.html)
 
 * [Kits & Modules](kits/kits.html)
-  * RC2014 Classic
+  * [RC2014 Classic](kits/RC2014Classic/guide.html)
   * RC2014 Pro
   * RC2014 CP/M Edition
   * [RC2014 Mini](kits/rc2014mini/guide.html)
