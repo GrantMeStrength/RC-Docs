@@ -33,6 +33,17 @@ Assemble each of the modules below in turn. When you have completed them all, re
 
 ## Final assembly and testing
 
+Now you can place each board into the backplane. The suggested location is as follows:
+
+(diagram)
+
+Connect the serial connection between your computer and the Serial module connector, like this:
+
+(diagram)
+
+Run the necessary software on the computer. See [Communications](./communications.html) for more information.
+
+Connect the power supply to the backplane. If all is well, the backplane LED will light up. 
 
 ## Troubleshooting
 
