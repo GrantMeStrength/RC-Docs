@@ -17,7 +17,7 @@ Depending on how you spec out your kit, an RC2014 can connect to your existing c
 
 ![](media/board1.png)
 
-This site contains a full list of products available from RC2014.co.uk, including assembly instructions,  operation guides, and a lot more. You'll find suggested kits to get you going, lots of help if you are a newbie, and advanced technical information for the old hands.
+This site contains a full list of products available from [RC2014.co.uk](rc2014.co.uk), including assembly instructions, operation guides, and a lot more. You'll find suggested kits to get you going, lots of help if you are a newbie, and advanced technical information for the old hands.
 
 ## Contents
 
