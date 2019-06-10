@@ -19,22 +19,7 @@ Having all the functions on a single board reduces the component count and there
 
 ## Assembly instructions
 
-### Before you begin..
-
-Tool list and other requiremets
-
-* Good soldering iron
-* Good quality solder
-* Wire cutters
-* Tape (to hold components in place as you solder - blue painter's tape is idea)
-* A frame or other device to hold the circuit board as your solder
-* A USB power supply, 5v 2A recommend.
-
-### Warnings
-
-* Soldering warning
-* Handling components
-* Polarity
+{% include tools.html %}
 
 
 ### Check list of parts

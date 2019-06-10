@@ -31,6 +31,7 @@ This site contains a list of products available from RC2014.co.uk, including ass
   * [IC numbering](appendices/ic_numbering.html)
   * [Other components](appendices/components.html)
 * [Resources](resources.html)
+  * [Peripheral addressing](peripheral.html)
   * Introduction to BASIC
   * Introduction to CP/M
   * Introduction to the Small Computer Monitor
