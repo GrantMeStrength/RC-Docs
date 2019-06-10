@@ -24,7 +24,7 @@ This kit requires a serial connection, such as the optional USB-Serial adaptor, 
 Assemble each of the modules below in turn. When you have completed them all, return to this page.
 
 <ul>
-<li>[Z80 2.1 CPU Module](Z8021CPU/guide.html)</li>
+<li>[Z80 2.1 CPU Module](./Z8021CPU/guide.html)</li>
 <li>Pageable ROM Module</li>
 <li>64k RAM Module</li>
 <li>Dual Serial SIO/2 Module</li>
@@ -43,7 +43,7 @@ Connect the serial connection between your computer and the Serial module connec
 
 (diagram)
 
-Run the necessary software on the computer. See [Communications](../communications.html) for more information.
+Run the necessary software on the computer. See [Communications](././communications.html) for more information.
 
 Connect the power supply to the backplane. If all is well, the backplane LED will light up. 
 
