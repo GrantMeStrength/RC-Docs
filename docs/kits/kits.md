@@ -37,7 +37,7 @@ The following modules can be added to kits or combined to create your own unique
 
 * Z80 module
 * ROM module
-* Digital I/O
+* [Digital I/O](digitalIO/guide.html)
 * Backplane 5
 * Raspberry Pi Zero Serial Terminal
 * Universal Micro Keyboard

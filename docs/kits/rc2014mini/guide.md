@@ -21,10 +21,9 @@ Having all the functions on a single board reduces the component count and there
 
 {% include tools.html %}
 
-
 ### Check list of parts
 
-The kit ships with the following parts. Please take care to identify each correctly - some look very similar. Resistors are identified with the [Resistor Color Codes](appendices/resistor_color_codes.htm). IC's are numbered from the notch. [appendices/ic_numbers.html]. Diodes and LEDs must be connected the right way around.
+{% include parts.html %}
 
 ![](board0.png)
 

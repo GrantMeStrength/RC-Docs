@@ -9,7 +9,7 @@ sidebar:
 
 RC2014 is a simple 8 bit Z80 based modular computer originally built to run Microsoft BASIC. It is inspired by the home built computers of the late 70s and computer revolution of the early 80s. It is not a clone of anything specific, but there are suggestions of the ZX81, UK101, S100, Superboard II and Apple I in here. It nominally has 8K ROM, 32K RAM, runs at 7.3728MHz and communicates over serial at 115,200 baud.
 
-![](Fractal2.jpg)
+![](media/Fractal2.jpg)
 
 RC2014 is available in kit form for you to solder together.  Through-hole components are used throughout, making soldering easy, even for those with limited soldering experience.  Along with a selection of modules to extend functionality, such as serial terminals with HDMI output, digital input modules or, simple keyboard, the RC2014 is a very adaptable computer.
 
@@ -32,7 +32,7 @@ Development of the RC2014 has lead to a more powerful machine with pageable ROM,
 
 ## Inside the RC2014
 
-![](Z80-Block-Diagram-1.png)
+![](media/Z80-Block-Diagram-1.png)
 
 
 ### RC2014 Memory Map

@@ -12,7 +12,7 @@ The RC2014 currently uses a very simple, although inefficient method of addressi
 
 It is worth noting that the Z80 CPU can address up to 255 Input or 155 output addresses.  These are selected by the first 8 address lines (A0 – A7), IORQ going low and either WR or RD going low.
 
-![](74LS138.png)
+![](media/74LS138.png)
 
 The ’138 has 3 enable pins, G1, G2B, G2A, all of which need to be true (G1 needs to be high, and both G2B and G2A need to be low) for the ‘138 to be enabled.  When it is enabled, the 3 address lines, A0, A1, A2 are read.  These 3 addresses have 8 possible combinations (000, 001, 010, 011, 100, 101, 110, 111), which will activate one of the 8 outputs Y0 to Y7.
 
@@ -20,7 +20,7 @@ In the Digital I/O Module, the ‘138 is activated when M1 is high, IORQ is low 
 
 The Z80 address pins A0 and A1, along with WR are connected to the address pins A0, A1, A2 on the ‘138.  This gives 4 addresses (00, 01, 10, 11) with the write bit high, and 4 with it low.
 
-![](74LS138-schematic.png)
+![](media/74LS138-schematic.png)
 
 In normal use, the ports are addressed as 0 (In 0 or Out 0) on the Digital I/O Module.  (Or port 0, 1, 2 on the Digital Input module, for example).  However, any address that has A0, A1 and A7 low will work; 0—–00.  So echoes of this will appear on 4, 8, 12… 124.  So, whilst this works, and is fine for a small system without much I/O requirements, it quickly becomes inefficient as you need more ports.  In particular, it will clash with the Compact Flash Storage Module, which can have an impact on running CP/M.
 
@@ -34,5 +34,5 @@ Other addresses can be selected by changing which address pin the diodes are con
 
 The Digital I/O Module has now been updated to reflect this change.  As PCB stocks run low on other modules, they too will have similar updates.  If you already have a non-diode selectable module, and wish to implement this, it is actually very simple to do as shown below.
 
-![](digital1.jpg)
-![](digital0.jpg)
+![](media/digital1.jpg)
+![](media/digital0.jpg)
