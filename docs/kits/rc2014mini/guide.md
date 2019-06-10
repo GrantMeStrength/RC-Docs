@@ -19,11 +19,11 @@ Having all the functions on a single board reduces the component count and there
 
 ## Assembly instructions
 
-{% include tools.html %}
+{% include tools.md %}
 
 ### Check list of parts
 
-{% include parts.html %}
+{% include parts.md %}
 
 ![](board0.png)
 

@@ -32,11 +32,11 @@ Similarly, a 74LS374 flip-flop will read the data bus when the Chip Enable pin i
 
 ## Assembly instructions
 
-{% include tools.html %}
+{% include tools.md %}
 
 ### Check list of parts
 
-{% include parts.html %}
+{% include parts.md %}
 
 <ul>
 <li>RC2014 Digital I/O PCB</li>
