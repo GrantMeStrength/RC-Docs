@@ -23,17 +23,14 @@ This kit requires a serial connection, such as the optional USB-Serial adaptor, 
 
 Assemble each of the modules below in turn. When you have completed them all, return to this page.
 
-<ul>
-[Z80 2.1 CPU Module](../Z8021CPU/guide.html)
-<li>[Z80 2.1 CPU Module](../Z8021CPU/guide.html)</li>
-<li>Z80 module [Z80 2.1 CPU Module](../Z8021CPU/guide.html) </li>
-<li>Pageable ROM Module</li>
-<li>64k RAM Module</li>
-<li>Dual Serial SIO/2 Module</li>
-<li>Compact Flash Storage Module</li>
-<li>Dual Clock Module</li>
-<li>Backplane Pro</li>
-</ul>
+* [Z80 2.1 CPU Module](../Z8021CPU/guide.html)
+* Pageable ROM Module
+* 64k RAM Module
+* Dual Serial SIO/2 Module
+* Compact Flash Storage Module
+* Dual Clock Module
+* Backplane Pro
+
 
 ## Final assembly and testing
 
@@ -56,7 +53,7 @@ Connect the power supply to the backplane. If all is well, the backplane LED wil
 
 The following modules are frequently used with the Classic:
 
-* [DigitalIO Module](../digitalio/guide.html)
+* [DigitalIO Module](../digitalIO/guide.html)
 * Pi Zero Serial Terminal
 * Joystick Module
 

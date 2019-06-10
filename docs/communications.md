@@ -7,6 +7,8 @@ sidebar:
 
 # Communications
 
+How to connect your RC2014 computer to just about everything.
+
 ## Connecting your RC computer to your Windows PC
 
 
