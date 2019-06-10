@@ -18,7 +18,7 @@ Building the kits requires a basic level of soldering skill. None of the compone
 
 * Cold joints
 * Bridges
-
+* Not enough solder
 
 ## Fixing soldering mistakes
 

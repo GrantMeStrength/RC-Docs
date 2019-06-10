@@ -24,9 +24,9 @@ This site contains a full list of products available from RC2014.co.uk, includin
 * [Introduction](introduction.html)
 
 * [Kits & Modules](kits/kits.html)
-  * [RC2014 Classic](kits/rc2014mini/guide.html)
-  * [RC2014 Pro](kits/rc2014mini/guide.html)
-  * [RC2014 CP/M Edition](kits/rc2014mini/guide.html)
+  * RC2014 Classic
+  * RC2014 Pro
+  * RC2014 CP/M Edition
   * [RC2014 Mini](kits/rc2014mini/guide.html)
   * [Full list of available modules](kits/kits.html) and instructions.
 * [Appendices](appendices/appendices.html)
@@ -36,6 +36,7 @@ This site contains a full list of products available from RC2014.co.uk, includin
   * [Other components](appendices/components.html)
 * [Resources](resources.html)
   * [Peripheral addressing](peripheral.html)
+  * [Communications](communications.html)
   * Using ROMs on your RC2014
   * Creating your own ROMs
   * Introduction to BASIC
