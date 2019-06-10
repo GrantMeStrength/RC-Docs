@@ -15,7 +15,7 @@ There are several kits available that combine existing modules to simplify order
 
 ## Current kits
 
-* RC2014 Classic
+* [RC2014 Classic](R2014Classic/guide.html)
 
 Contains: Z80 module, Serial module, backplane. 
 
@@ -35,7 +35,7 @@ Contains: This kit takes an all-on-one approach, with a Z80, clock, ROM, and RAM
 
 The following modules can be added to kits or combined to create your own unique kit.
 
-* Z80 module
+* [Z80 module](Z8021CPU/guide.html)
 * ROM module
 * [Digital I/O](digitalIO/guide.html)
 * Backplane 5
@@ -44,7 +44,7 @@ The following modules can be added to kits or combined to create your own unique
 
 ## Deprecated modules
 
-
+* Z80 module
 
 ## Availability
 
